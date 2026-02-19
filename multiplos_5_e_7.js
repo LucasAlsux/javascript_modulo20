@@ -25,5 +25,4 @@ const resultado = multiplos(1000);
 console.log(`${resultado}`);
 
     
-    
-
+module.exports = {multiplos}

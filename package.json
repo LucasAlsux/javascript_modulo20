@@ -1,0 +1,24 @@
+{
+  "name": "javascript-modulo-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indices_array.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasAlsux/javascript_modulo20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LucasAlsux/javascript_modulo20/issues"
+  },
+  "homepage": "https://github.com/LucasAlsux/javascript_modulo20#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}

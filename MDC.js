@@ -1,4 +1,9 @@
+
+
 //funcao que calcula o mdc, recebe 2 parametros
+    let num1 = 15
+    let num2 = 10
+
 function MDC (a,b){
     //loop que realiza o algoritimo de euclides
     while(b!==0){
@@ -12,8 +17,10 @@ function MDC (a,b){
 }
 
     //vai procurar o mds desses dois numeros
-    let num1 = 15 
-    let num2 = 10
+
 
     //mostra os valores e informa a funcão MDC quais sao os dois parametros a serem usados
     console.log(`MDC de ${num1} e ${num2} é: `,MDC(num1, num2));
+
+        module.exports = { MDC }
+
