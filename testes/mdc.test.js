@@ -1,4 +1,4 @@
-const { MDC } = require ('C:/Repositorio/javascript modulo 20/MDC.js')
+const { MDC } = require ('../MDC.js')
 
 test('se o mdc é correto', () => {
     

@@ -1,4 +1,4 @@
-const {multiplos} = require ('C:/Repositorio/javascript modulo 20/multiplos_5_e_7.js')
+const {multiplos} = require ('../multiplos_5_e_7.js')
 
 test('se retorna o esperado', () => {
 
@@ -6,6 +6,6 @@ test('se retorna o esperado', () => {
 
     const resultado = (multiplos(valor))
 
-    expect(multiplos).toBe(7350)
+    expect(multiplos).toEqual(7350)
 
 }) 

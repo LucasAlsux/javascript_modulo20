@@ -1,4 +1,4 @@
-const {indices} = require ('C:/Repositorio/javascript modulo 20/indices_array.js')
+const {indices} = require ('../indices_array.js')
 
 test('deve achar o maior e o menor indice', () => {
 
